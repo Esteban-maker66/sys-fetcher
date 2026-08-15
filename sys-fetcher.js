@@ -34,5 +34,3 @@ async function fetcher() {
 }
 
 fetcher();
-
-// MAÑANA: DIA 30: Retrospectiva del mes.
