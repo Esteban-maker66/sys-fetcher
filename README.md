@@ -6,4 +6,4 @@
 
 ## Setup: ## 
 
-### commands for execute with "node sys-fetcher.js --user=<usernameExample>" ###
+### command for execute with: "node sys-fetcher.js --user=usernameExample" ###
