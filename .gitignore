@@ -2,3 +2,4 @@ node_modules/
 fragmentos/*.txt
 *.log
 .DS_Store
+.env
