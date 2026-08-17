@@ -1,4 +1,4 @@
-# sys-fetcher
+# sys-fetcher CLI 2026
 
 ## Description
 
