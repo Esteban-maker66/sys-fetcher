@@ -1,5 +1,5 @@
 
-# sys-fetcher CLI 2026.08.16
+# sys-fetcher CLI 
 
 ## Description
 
